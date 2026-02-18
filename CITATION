@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: "EEG-VR Rehabilitation System: A Human-Centered Multi-Level Neurotechnology Framework"
+message: "If you use this project in your research, please cite it as follows."
+type: software
+authors:
+  - family-names: Caffi
+    given-names: Giulia
+    orcid: https://orcid.org/0000-0000-0000-0000
+affiliation: Università Vita-Salute San Raffaele
+keywords:
+  - Brain-Computer Interface
+  - EEG
+  - Neurorehabilitation
+  - Motor Imagery
+  - Virtual Reality
+  - Human-Centered Design
+  - Neurotechnology
+license: MIT
+repository-code: https://github.com/GiuliaCaffi/EEG-VR-Rehabilitation-System
+date-released: 2025-01-01
+version: "1.0.0"
+abstract: >
+  A human-centered, multi-level neurorehabilitation framework integrating EEG-based motor intention decoding with immersive Virtual Reality environments. 
+  The system combines offline calibration, real-time classification, adaptive progression logic, and multimodal extensions 
+  (EEG + EMG + IMU) to support both assistive and rehabilitative neurotechnology applications.
